@@ -41,7 +41,7 @@ It is a **deterministic one-way sync**: SRC is the source of truth.
 
 ## Screenshot
 
-Add your screenshot here (recommended for GitHub):
+
 
 ```text
 docs/screenshot.png
