@@ -39,13 +39,11 @@ It is a **deterministic one-way sync**: SRC is the source of truth.
 
 ---
 
+
 ## Screenshot
 
-Add your screenshot here (recommended for GitHub):
+![Screenshot](docs/screenshot.png)
 
-```text
-docs/screenshot.png
-```
 
 ---
 
