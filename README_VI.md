@@ -1,7 +1,7 @@
 # PharmAppFolderSync
 
 Công cụ đồng bộ thư mục (SRC → DST) dạng **GUI** nhẹ, có **quản lý profile** và **hỗ trợ symlink**.  
-Xây dựng bằng Python + Tkinter/ttk theo **PharmApp 2025 theme**.
+Xây dựng bằng Python + Tkinter/ttk theo **PharmApp 2026 theme**.
 
 > **Mục tiêu chính:** giữ 2 thư mục “giống nhau” theo hướng **một chiều** (backup/mirror/sync) với quy trình đơn giản, có log để kiểm soát.
 

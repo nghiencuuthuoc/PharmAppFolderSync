@@ -1,7 +1,7 @@
 # PharmAppFolderSync
 
 A lightweight, GUI-based folder synchronization tool (SRC → DST) with profile management and symlink-aware behavior.  
-Built with Python + Tkinter/ttk using the PharmApp 2025 theme.
+Built with Python + Tkinter/ttk using the PharmApp 2026 theme.
 
 > **Primary goal:** keep two folders consistent (backup / mirror / sync) in a simple, auditable workflow—without requiring command-line tools.
 
@@ -41,8 +41,11 @@ It is a **deterministic one-way sync**: SRC is the source of truth.
 
 ## Screenshot
 
-![Screenshot](docs/screenshot.png)
+Add your screenshot here (recommended for GitHub):
 
+```text
+docs/screenshot.png
+```
 
 ---
 
